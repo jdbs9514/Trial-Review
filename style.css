@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+
+  /* background-image: url("m1.jfif"); */
+
+  /* background-color: aquamarine; */
+}
+
+h1 {
+  font-family: 'Saira Condensed', sans-serif;
+  font-size: 45px;
+}
+
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.content {
+  font-family: 'Cinzel', serif;
+}
